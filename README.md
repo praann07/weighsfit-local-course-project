@@ -41,7 +41,7 @@ npm run api          # terminal 1 - local API on http://localhost:4000
 npm run app          # terminal 2 - the website on http://localhost:5173
 ```
 
-Open http://localhost:5173. Or double-click `run_frontend.bat` to start the website (start the API first).
+Open http://localhost:5173. Or double-click `run_all.bat`: it starts MySQL (asks for admin once and sets it to start automatically), the API and the website, then opens the browser. Works after a reboot. `run_frontend.bat` starts only the website.
 
 ## Logging in
 
