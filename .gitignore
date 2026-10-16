@@ -1,0 +1,8 @@
+node_modules/
+.env
+open_mysql.bat
+
+# private: real emails, demo passwords, password hashes (regenerate with tools/make_seed.js)
+LOGIN_GUIDE.md
+seed_data.sql
+seed_charith_praneeth.sql
